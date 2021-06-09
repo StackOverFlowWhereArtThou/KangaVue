@@ -42,7 +42,7 @@ When your app loads or refreshes, the initial loading metrics will be rendered i
 - **Harry Fox** - [@StackOverFlowWhereArtThou](https://github.com/StackOverFlowWhereArtThou)
 - **Nathan Richardson** - [@BagelEnthusiast](https://github.com/BagelEnthusiast)
 - **David Bernstein** - [@dangitbobbeh](https://github.com/dangitbobbeh)
-- **Joseph Stern** - [@josephiswhere](https://github.com/josephiswhere))
+- **Joseph Stern** - [@josephiswhere](https://github.com/josephiswhere)
 
 ## <b>License </b>
 
